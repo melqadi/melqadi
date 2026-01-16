@@ -20,21 +20,43 @@ I've led large-scale projects in **education tech, e-learning, government digiti
 
 ## 🛠️ Tech Stack
 
-| Category           | Technologies & Tools                                                                 |
-|--------------------|--------------------------------------------------------------------------------------|
-| **Backend**        | C#, .NET Core, ASP.NET, PHP (Laravel, Lumen), Python (Flask), Node.js                |
-| **Frontend**       | Angular 2+, React, Vue.js, JavaScript/TypeScript, jQuery, CSS3                       |
-| **Databases**      | MSSQL, MySQL, PostgreSQL, MongoDB                                                    |
-| **Cloud & DevOps** | Microsoft Azure, AWS, Docker, CI/CD, Microservices, Serverless                       |
-| **ERP/CRM**        | Microsoft Dynamics, Custom ERP/CRM solutions                                         |
-| **Tools & Methods**| Git, Agile/Scrum, Kanban, System Design, UML, Technical Documentation                |
+**Backend:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases:**  
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Methodologies & Tools:**  
+![Agile](https://img.shields.io/badge/Agile-009DDB?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=microservices&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Medhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melqadi&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melqadi&layout=compact&theme=dark&hide_border=true)
+![Medhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melqadi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melqadi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
